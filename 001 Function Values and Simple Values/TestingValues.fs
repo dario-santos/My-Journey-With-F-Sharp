@@ -1,4 +1,4 @@
-module Testing_Values
+module TestingValues
 
 //
 //Function values
@@ -15,7 +15,7 @@ plus1 5
 //Simple values
 //
 
-let c = 5a
+let c = 5
 add1 c
 
 //c is a value, a constant
